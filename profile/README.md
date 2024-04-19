@@ -1,3 +1,3 @@
-## Vanderbull
+# Vanderbull
 
-Coming soon
+Projects that the organisation is working on.
